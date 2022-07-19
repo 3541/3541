@@ -1,5 +1,4 @@
-### Greetings
-I'm a computer science student at the University of Melbourne. I'm fascinated by systems programming and OS internals.
+## Greetings
 
 ### Current Projects
 I'm currently primarily working on [Short Circuit](https://github.com/3541/short-circuit), an `io_uring` web server for Linux. My long-term background project is [Syzygy](https://github.com/3541/syzygy), an experimental kernel in Rust, which, given the scale of such a project, I expect never to be finished.
